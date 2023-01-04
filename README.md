@@ -1,12 +1,7 @@
 
-<h1 align="center" > Welcome! </h1>
 
-<div id="header" align="center"> 
-  <img src="https://pbblogassets.s3.amazonaws.com/uploads/2018/10/22074923/pink-sky-cover.jpg" width="1000" height="400"/> 
-</div>
-
----
-
+<h1 align="center"> Welcome to my profile!</h1>
+  
 ### :woman_technologist: About Me :
 
 - :computer: I'm in my second year of studying for a bachelor's degree in <a href="https://www.su.se/sok-kurser-och-program/sysdk-1.411896">Computer and Systems Science</a>
